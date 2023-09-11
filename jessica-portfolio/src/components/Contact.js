@@ -29,7 +29,7 @@ export default function Contact() {
               <h2 className="title-font font-semibold text-white tracking-widest text-xs">
                 Email
               </h2>
-              <a className="text-indigo-400 leading-relaxed">
+              <a href="#email" className="text-indigo-400 leading-relaxed">
                 jessica.floresolguin@gmail.com
               </a>
               <h2 className="title-font font-semibold text-white tracking-widest text-xs mt-4">
