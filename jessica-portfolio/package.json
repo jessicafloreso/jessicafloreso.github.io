@@ -2,7 +2,7 @@
   "name": "jessica-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://jessicafloreso.github.io/jessicafloreso.github.io/jessica-portfolio",
+  "homepage": "http://jessicafloreso.github.io/jessicafloreso.github.io",
   "dependencies": {
     "@heroicons/react": "^1.0.6",
     "@testing-library/jest-dom": "^5.17.0",
