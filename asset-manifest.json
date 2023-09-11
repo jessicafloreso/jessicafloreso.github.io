@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/jessicafloreso.github.io/static/css/main.ca68800d.css",
-    "main.js": "/jessicafloreso.github.io/static/js/main.b09aa497.js",
-    "static/js/787.c82b17b9.chunk.js": "/jessicafloreso.github.io/static/js/787.c82b17b9.chunk.js",
-    "static/media/pfp.png": "/jessicafloreso.github.io/static/media/pfp.18b5866dc51777bf8ace.png",
-    "static/media/CentraNo2-Bold.ttf": "/jessicafloreso.github.io/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
-    "static/media/CentraNo2-Medium.ttf": "/jessicafloreso.github.io/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
-    "static/media/CentraNo2-Book.ttf": "/jessicafloreso.github.io/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
-    "index.html": "/jessicafloreso.github.io/index.html",
-    "main.ca68800d.css.map": "/jessicafloreso.github.io/static/css/main.ca68800d.css.map",
-    "main.b09aa497.js.map": "/jessicafloreso.github.io/static/js/main.b09aa497.js.map",
-    "787.c82b17b9.chunk.js.map": "/jessicafloreso.github.io/static/js/787.c82b17b9.chunk.js.map"
+    "main.css": "/jessicafloreso.github.io/jessica-portfolio/static/css/main.8c459d1e.css",
+    "main.js": "/jessicafloreso.github.io/jessica-portfolio/static/js/main.49d7d609.js",
+    "static/js/787.c82b17b9.chunk.js": "/jessicafloreso.github.io/jessica-portfolio/static/js/787.c82b17b9.chunk.js",
+    "static/media/pfp.png": "/jessicafloreso.github.io/jessica-portfolio/static/media/pfp.18b5866dc51777bf8ace.png",
+    "static/media/CentraNo2-Bold.ttf": "/jessicafloreso.github.io/jessica-portfolio/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/jessicafloreso.github.io/jessica-portfolio/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/jessicafloreso.github.io/jessica-portfolio/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "index.html": "/jessicafloreso.github.io/jessica-portfolio/index.html",
+    "main.8c459d1e.css.map": "/jessicafloreso.github.io/jessica-portfolio/static/css/main.8c459d1e.css.map",
+    "main.49d7d609.js.map": "/jessicafloreso.github.io/jessica-portfolio/static/js/main.49d7d609.js.map",
+    "787.c82b17b9.chunk.js.map": "/jessicafloreso.github.io/jessica-portfolio/static/js/787.c82b17b9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ca68800d.css",
-    "static/js/main.b09aa497.js"
+    "static/css/main.8c459d1e.css",
+    "static/js/main.49d7d609.js"
   ]
 }
