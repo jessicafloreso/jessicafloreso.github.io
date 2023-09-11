@@ -26,7 +26,7 @@ export default function Projects() {
               rel="noreferrer">
               <div className="flex relative">
                 <img
-                  alt="project image"
+                  alt="coming soon.. a project display ._."
                   className="absolute inset-0 w-full h-full object-cover object-center"
                   src={project.image}
                 />
