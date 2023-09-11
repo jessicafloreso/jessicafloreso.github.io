@@ -1,3 +1,63 @@
+
+/************ Custom Font ************/
+@font-face {
+	font-family: Centra;
+	src: url('./assets/font/CentraNo2-Bold.ttf');
+	font-weight: 700;
+}
+@font-face {
+	font-family: Centra;
+	src: url('./assets/font/CentraNo2-Medium.ttf');
+	font-weight: 500;
+}
+@font-face {
+	font-family: Centra;
+	src: url('./assets/font/CentraNo2-Book.ttf');
+	font-weight: 400;
+}
+
+/****NAV BAR CSS*****/
+/* Navbar.css (or your global CSS file) */
+nav {
+  background-color: #333;
+  color: #fff;
+  padding: 10px 0;
+}
+
+ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  margin: 0 10px;
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
+  font-weight: bold;
+}
+
+
+/***Updated CSS here****/
+#about {
+  display: flex;
+}
+#aboutme {
+ margin: 5px 100px 30px 100px;
+}
+
+h2#aboutme{
+  background-color: pink;
+  border-radius: 0%;
+  color: rgb(255, 255, 255);
+ }
+
+/*****DEFUALT BELOW*****/
 .App {
   text-align: center;
 }
