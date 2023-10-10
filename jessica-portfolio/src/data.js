@@ -37,7 +37,7 @@ export const projects = [
         description:
           "Targeting users from varying stress backgrounds, Cocoon is a web application desgined to help First-Gen Low-Income Wellesley students navigate their emotions, mindfulnees, and goals through a non-invasive, centralized application.",
         image: "../cocoon.jpg",
-        link: "https://github.com/mandy2324/Fun-Quiz-Platform-Backend",
+        link: "https://cs.wellesley.edu/~cocoon/cocoonWebsite.html",
       },
   ];
 
